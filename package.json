@@ -1,0 +1,23 @@
+{
+  "name": "openbci-wifi-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomas-vodrazka/openbci-wifi-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomas-vodrazka/openbci-wifi-api/issues"
+  },
+  "homepage": "https://github.com/tomas-vodrazka/openbci-wifi-api#readme",
+  "dependencies": {
+    "ip": "^1.1.5",
+    "node-fetch": "^2.6.0"
+  }
+}
